@@ -1,3 +1,2 @@
-python program
-      Binary-conveter
-      
+number = int(inupt("Einter any decimal number:"))
+print("Equivalent Binar Number:, big (big(number))
